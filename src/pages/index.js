@@ -57,7 +57,7 @@ const descriptionStyle = {
 }
 
 const docLink = {
-  text: "Documentation",
+  text: "Overacting cheyaku potti",
   url: "https://www.gatsbyjs.com/docs/",
   color: "#8954A8",
 }
@@ -129,7 +129,7 @@ const links = [
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
-      <title>over acting cheyaku potti</title>
+      <title>Home Page</title>
      
       <ul style={listStyles}>
         <li style={docLinkStyle}>
