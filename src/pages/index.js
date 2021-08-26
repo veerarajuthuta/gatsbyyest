@@ -120,7 +120,7 @@ const links = [
     url: "https://www.gatsbyjs.com/cloud",
     badge: true,
     description:
-      "Test6 desc",
+      "Test6 desc changes",
     color: "#663399",
   },
 ]
