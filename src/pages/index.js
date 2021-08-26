@@ -57,7 +57,7 @@ const descriptionStyle = {
 }
 
 const docLink = {
-  text: "Overacting cheyaku potti",
+  text: "Test project",
   url: "https://www.gatsbyjs.com/docs/",
   color: "#8954A8",
 }
