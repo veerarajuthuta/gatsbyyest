@@ -129,7 +129,7 @@ const links = [
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
-      <title>Home Page</title>
+      <title>over acting cheyaku potti</title>
      
       <ul style={listStyles}>
         <li style={docLinkStyle}>
